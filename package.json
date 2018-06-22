@@ -3,7 +3,7 @@
   "version": "1.4.0",
   "description": "",
   "main": "react-onsenui.js",
-  "module": "react-onsenui.mjs",
+  "module": "react-onsenui.esm.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
